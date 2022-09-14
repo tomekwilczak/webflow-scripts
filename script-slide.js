@@ -15,11 +15,11 @@ $(document).ready(function () {
     clickable: true,
 
       },
-  autoplay: {
-          delay: 3000,
-    disableOnInteraction: false,
-
-      },
+  //autoplay: {
+  //        delay: 3000,
+  //  disableOnInteraction: false,
+//
+   //   },
   speed: 700,
   slidesPerView: 'auto',
   loop: true,
