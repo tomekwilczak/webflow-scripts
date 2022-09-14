@@ -18,8 +18,7 @@ $(document).ready(function () {
   //autoplay: {
   //        delay: 3000,
   //  disableOnInteraction: false,
-//
-   //   },
+  //   },
   speed: 700,
   slidesPerView: 'auto',
   loop: true,
